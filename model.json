@@ -1,0 +1,22 @@
+[
+    {
+        "Name": "Ego",
+        "Accepting": "Leading",
+        "Producing": "Creative"
+    },
+    {
+        "Name": "Super Ego",
+        "Accepting": "Role",
+        "Producing": "Vulnerable"
+    },
+    {
+        "Name": "Super Id",
+        "Accepting": "Suggestive",
+        "Producing": "Mobilizing"
+    },
+    {
+        "Name": "Id",
+        "Accepting": "Ignoring",
+        "Producing": "Demonstrative"
+    }
+]
